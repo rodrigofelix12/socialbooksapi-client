@@ -20,7 +20,7 @@ public class Aplicacao {
 		}
 		
 		Livro livro = new Livro();
-		livro.setNome("Git passo-a-passo");
+		livro.setNome("Certificação Java Programmer");
 		livro.setEditora("Algaworks");
 		
 		SimpleDateFormat publicacao = new SimpleDateFormat("dd/MM/yyy");
